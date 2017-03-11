@@ -1,0 +1,3 @@
+D:/Users/Mário Ricardo/Documents/LCC/2º Semestre/CompGráfica/Fichas/Ficha4/code(p04)/bin/CMakeFiles/ficha4.dir
+D:/Users/Mário Ricardo/Documents/LCC/2º Semestre/CompGráfica/Fichas/Ficha4/code(p04)/bin/CMakeFiles/ALL_BUILD.dir
+D:/Users/Mário Ricardo/Documents/LCC/2º Semestre/CompGráfica/Fichas/Ficha4/code(p04)/bin/CMakeFiles/ZERO_CHECK.dir
